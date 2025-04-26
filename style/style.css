@@ -104,32 +104,32 @@ li {
 }
 
 .maxbox li:nth-child(1){
-	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.png) no-repeat 0 0;
 	-webkit-transform: translateZ(50px);
 }
 
 .maxbox li:nth-child(2){
-	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.png) no-repeat 0 0;
 	-webkit-transform: rotateX(180deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(3){
-	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.png) no-repeat 0 0;
 	-webkit-transform: rotateX(-90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(4){
-	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.png) no-repeat 0 0;
 	-webkit-transform: rotateX(90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(5){
-	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.png) no-repeat 0 0;
 	-webkit-transform: rotateX(-90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(6){
-	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.png) no-repeat 0 0;
 	-webkit-transform: rotateX(90deg) translateZ(50px);
 }
 
