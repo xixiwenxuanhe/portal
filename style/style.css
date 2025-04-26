@@ -74,62 +74,62 @@ li {
 }
 
 .minbox li:nth-child(1){
-	background: url(imgs/01_100x100.jpg) no-repeat 0 0;
+	background: url(../imgs/01_100x100.jpg) no-repeat 0 0;
 	-webkit-transform: translateZ(50px);
 }
 
 .minbox li:nth-child(2){
-	background: url(imgs/01_100x100.jpg) no-repeat 0 0;
+	background: url(../imgs/01_100x100.jpg) no-repeat 0 0;
 	-webkit-transform: rotateX(180deg) translateZ(50px) scaleY(-1) scaleX(-1);
 }
 
 .minbox li:nth-child(3){
-	background: url(imgs/01_100x100.jpg) no-repeat 0 0;
+	background: url(../imgs/01_100x100.jpg) no-repeat 0 0;
 	-webkit-transform: rotateX(-90deg) translateZ(50px);
 }
 
 .minbox li:nth-child(4){
-	background: url(imgs/01_100x100.jpg) no-repeat 0 0;
+	background: url(../imgs/01_100x100.jpg) no-repeat 0 0;
 	-webkit-transform: rotateX(90deg) translateZ(50px);
 }
 
 .minbox li:nth-child(5){
-	background: url(imgs/01_100x100.jpg) no-repeat 0 0;
+	background: url(../imgs/01_100x100.jpg) no-repeat 0 0;
 	-webkit-transform: rotateY(-90deg) translateZ(50px);
 }
 
 .minbox li:nth-child(6){
-	background: url(imgs/01_100x100.jpg) no-repeat 0 0;
+	background: url(../imgs/01_100x100.jpg) no-repeat 0 0;
 	-webkit-transform: rotateY(90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(1){
-	background: url(imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
 	-webkit-transform: translateZ(50px);
 }
 
 .maxbox li:nth-child(2){
-	background: url(imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
 	-webkit-transform: rotateX(180deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(3){
-	background: url(imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
 	-webkit-transform: rotateX(-90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(4){
-	background: url(imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
 	-webkit-transform: rotateX(90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(5){
-	background: url(imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
 	-webkit-transform: rotateX(-90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(6){
-	background: url(imgs/02_400x400.jpg) no-repeat 0 0;
+	background: url(../imgs/02_400x400.jpg) no-repeat 0 0;
 	-webkit-transform: rotateX(90deg) translateZ(50px);
 }
 
@@ -249,25 +249,7 @@ li {
     right: 0;
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 50px;
     z-index: 100;
-}
-
-.nav-button {
-    padding: 10px 20px;
-    background: rgba(255, 255, 255, 0.2);
-    border: 2px solid rgba(255, 255, 255, 0.5);
-    border-radius: 30px;
-    color: white;
-    font-size: 16px;
-    font-weight: bold;
-    text-decoration: none;
-    backdrop-filter: blur(5px);
-    transition: all 0.3s ease;
-}
-
-.nav-button:hover {
-    background: rgba(255, 255, 255, 0.3);
-    transform: translateY(-3px);
 }
 
