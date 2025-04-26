@@ -1,8 +1,11 @@
-$.letItSnow('.let-it-snow', {
-    stickyFlakes: 'lis-flake--js',
-    makeFlakes: true,
-    sticky: true
- });
+$(document).ready(function() {
+    $.letItSnow('.let-it-snow', {
+        stickyFlakes: 'lis-flake--js',
+        makeFlakes: true,
+        sticky: true
+     });
+});
+
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-36251023-1']);
  _gaq.push(['_setDomainName', 'jqueryscript.net']);
